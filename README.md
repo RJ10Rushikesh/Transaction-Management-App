@@ -38,6 +38,11 @@ cd roxiler-mern-project
    npm start
    ```
 
+## Setting Up the Database
+1. Install MongoDB locally or use a cloud database like MongoDB Atlas.
+2. Update your `.env` file with your MongoDB connection URI:
+
+---
 
 ## API Endpoints
 
