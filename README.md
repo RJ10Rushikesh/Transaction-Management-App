@@ -63,4 +63,4 @@ cd roxiler-mern-project
 - Provides bar chart data by price ranges.
 
 ---
-**IMPORTANT NOTE**: Keep the backend server running while using the frontend, these can be done by running "node app.js" on one instance of terminal and "npm start" on other instance of terminal.
+**IMPORTANT NOTE: Keep the backend server running while using the frontend, these can be done by running "node app.js" on one instance of terminal and "npm start" on other instance of terminal.**
