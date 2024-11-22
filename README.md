@@ -20,35 +20,25 @@ git clone https://github.com/your-username/roxiler-mern-project.git
 cd roxiler-mern-project
 ```
 
-### 2. Backend Setup
-1. Navigate to the backend directory:
-   ```bash
-   cd backend
-   ```
-
-2. Install dependencies and start the backend:
+### 2. Backend Setupd
+  
+1. Install dependencies and start the backend:
    ```bash
    npm install
    node app.js
    ```
 
-3. Backend will run on **http://localhost:5000**.
+2. Backend will run on **http://localhost:5000**.
 
 ### 3. Frontend Setup
-1. Navigate to the frontend directory in a new terminal instance:
-   ```bash
-   cd frontend
-   ```
 
-2. Install dependencies and start the frontend:
+1. Install dependencies and start the frontend:
    ```bash
    npm install
    npm start
    ```
 
-3. Frontend will run on **http://localhost:3000**.
-
-> **Note**: Keep the backend server running while using the frontend.
+> **IMPORTANT NOTE**: Keep the backend server running while using the frontend, these can be done by running "node app.js" on one instance of terminal and "npm start" on other instance of terminal.
 
 ---
 
