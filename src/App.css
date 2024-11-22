@@ -1,0 +1,39 @@
+
+.dashboard-container {
+      background-color: #f4f6f8; /* Light gray background */
+      padding: 20px;
+}
+    
+.title {
+      color: #1976d2; /* Blue color */
+      font-weight: 600;
+}
+    
+.select-month {
+      background-color: #ffffff;
+}
+    
+.search-bar {
+      background-color: #ffffff;
+}
+    
+.table-paper {
+      background-color: #ffffff;
+      border-radius: 8px;
+      box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+    
+.pagination-button {
+      background-color: #1976d2;
+      color: white;
+      &:hover {
+        background-color: #1565c0;
+      }
+}
+    
+.card {
+      background-color: #ffffff;
+      border-radius: 8px;
+      box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+      padding: 16
+}
